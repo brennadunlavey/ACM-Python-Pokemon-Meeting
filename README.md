@@ -32,4 +32,4 @@ Try to come up with cool ways to analyze and process the data from the API. Belo
 
 ### Code Examples 
 
-Basic examples of how to approach these ideas are available in the `code-examples` directory. To try out these programs, run them from this root directory (for example, run `python code-examples/using-objects.py`). You may also need to use pip to install libraries for some of the examples (for example, you may need to run `pip install matplotlib` to run network.py)
+Basic examples of how to approach these ideas are available in the `code-examples` directory. To try out these programs, run them from this root directory (for example, run `python code-examples/using-objects.py`). You may also need to use pip to install libraries for some of the examples (for example, you may need to run `pip install matplotlib` to run network.py).
