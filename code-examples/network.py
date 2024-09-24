@@ -43,7 +43,10 @@ nx.draw_networkx_nodes(g,nodelist=nodes, pos=pos, node_size=nodeSizes, node_colo
 nx.draw_networkx_edges(g,pos=pos)
 
 # display plot
+plt.title('Cool Graph!')
 plt.show()
+plt.savefig('code-examples/outputs/network-graph')
+print('Network graph saved in code-examples/outputs!')
 
 
 

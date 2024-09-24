@@ -1,5 +1,5 @@
 # make a scatter plot of peoples age vs salary
-# uses pandas and 
+# uses pandas and plotly to open the scatter plot in a web browser
 
 import pandas as pd
 import plotly.express as px

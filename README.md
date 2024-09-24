@@ -28,3 +28,8 @@ Try to come up with cool ways to analyze and process the data from the API. Belo
 - What happens when Pokemon evolve? What values tend to change the most? How long are evolution chains?
 - It's always important to make data easy to browse and view. Programmaticaly make a markdown file that shows important information on each Pokemon, such as name, types, stats, and a picture. 
 - There are complicated relationships and groupings among pokemon. How can you create associations and display them in a network graph to gain information about these relationships?
+
+
+### Code Examples 
+
+Basic examples of how to approach these ideas are available in the `code-examples` directory. To try out these programs, run them from this root directory (for example, run `python code-examples/using-objects.py`). You may also need to use pip to install libraries for some of the examples (for example, you may need to run `pip install matplotlib` to run network.py)
